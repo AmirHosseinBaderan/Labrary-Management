@@ -1,0 +1,12 @@
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.View\bin\Debug\LIBRARY.View.dll
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.View\bin\Debug\LIBRARY.View.pdb
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.View\obj\Debug\LIBRARY.View.csprojAssemblyReference.cache
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.View\obj\Debug\LIBRARY.View.csproj.CoreCompileInputs.cache
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.View\obj\Debug\LIBRARY.View.dll
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.View\obj\Debug\LIBRARY.View.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.View\bin\Debug\LIBRARY.View.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.View\bin\Debug\LIBRARY.View.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.View\obj\Debug\LIBRARY.View.csprojAssemblyReference.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.View\obj\Debug\LIBRARY.View.csproj.CoreCompileInputs.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.View\obj\Debug\LIBRARY.View.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.View\obj\Debug\LIBRARY.View.pdb

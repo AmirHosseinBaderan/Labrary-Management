@@ -1,0 +1,99 @@
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.exe.config
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.exe
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.pdb
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.DataLayer.dll
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Utilitys.dll
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.dll
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.DataLayer.pdb
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.DataLayer.dll.config
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Utilitys.pdb
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.xml
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csprojAssemblyReference.cache
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.Form1.resources
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.Properties.Resources.resources
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csproj.GenerateResource.cache
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csproj.CoreCompileInputs.cache
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csproj.CopyComplete
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.exe
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.pdb
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\DGV_Customize.dll
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\DGV_Customize.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.exe.config
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.exe
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\DGV_Customize.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Businus.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.DataLayer.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Utilitys.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.View.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Businus.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.DataLayer.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.DataLayer.dll.config
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Utilitys.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.View.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\DGV_Customize.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csprojAssemblyReference.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.Form1.resources
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.Properties.Resources.resources
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csproj.GenerateResource.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csproj.CoreCompileInputs.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csproj.CopyComplete
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.exe
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.pdb
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.exe.config
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.exe
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.pdb
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.dll
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Businus.dll
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.DataLayer.dll
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Utilitys.dll
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.View.dll
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Businus.pdb
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.DataLayer.pdb
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.DataLayer.dll.config
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Utilitys.pdb
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.View.pdb
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.xml
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csprojAssemblyReference.cache
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.Form1.resources
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.Properties.Resources.resources
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csproj.GenerateResource.cache
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csproj.CoreCompileInputs.cache
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csproj.CopyComplete
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.exe
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.pdb
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.View.AddOREditeCustomers.resources
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.View.AddOrEditeBooks.resources
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.exe.config
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.exe
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.pdb
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.dll
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Businus.dll
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.DataLayer.dll
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Utilitys.dll
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.View.dll
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Businus.pdb
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.DataLayer.pdb
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.DataLayer.dll.config
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.Utilitys.pdb
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.View.pdb
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.xml
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csprojAssemblyReference.cache
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.View.AddOrEditeBooks.resources
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.View.AddOREditeCustomers.resources
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.Form1.resources
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.Properties.Resources.resources
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csproj.GenerateResource.cache
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csproj.CoreCompileInputs.cache
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.App.csproj.CopyComplete
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.exe
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.pdb
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.View.AddOrEditAction.resources

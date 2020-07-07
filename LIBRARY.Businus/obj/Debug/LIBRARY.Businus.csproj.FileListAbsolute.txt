@@ -1,0 +1,22 @@
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.Businus\bin\Debug\LIBRARY.Businus.dll
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.Businus\bin\Debug\LIBRARY.Businus.pdb
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.csprojAssemblyReference.cache
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.csproj.CoreCompileInputs.cache
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.dll
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.Businus\bin\Debug\LIBRARY.Businus.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.Businus\bin\Debug\LIBRARY.Businus.pdb
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.csprojAssemblyReference.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.csproj.CoreCompileInputs.cache
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.dll
+D:\New folder\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.pdb
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY.Businus\bin\Debug\LIBRARY.Businus.dll
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY.Businus\bin\Debug\LIBRARY.Businus.pdb
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.csproj.CoreCompileInputs.cache
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.dll
+D:\New folder\project\java , Cs\Cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.pdb
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY.Businus\bin\Debug\LIBRARY.Businus.dll
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY.Businus\bin\Debug\LIBRARY.Businus.pdb
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.csproj.CoreCompileInputs.cache
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.dll
+D:\New folder\project\Cs\Cs\Windows Forms\LIBRARY\LIBRARY.Businus\obj\Debug\LIBRARY.Businus.pdb

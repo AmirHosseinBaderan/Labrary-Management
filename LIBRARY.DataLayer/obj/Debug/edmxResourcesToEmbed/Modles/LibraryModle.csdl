@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Library_DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BookTB">
+    <Key>
+      <PropertyRef Name="BookID" />
+    </Key>
+    <Property Name="BookID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BookName" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Writer" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Publishare" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="Code" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="FromTb" Relationship="Library_DBModel.FK_FromTb_BookTB" FromRole="BookTB" ToRole="FromTb" />
+  </EntityType>
+  <EntityType Name="CustomerTB">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" MaxLength="800" FixedLength="false" Unicode="true" />
+    <Property Name="CustomerIMG" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="FromTb" Relationship="Library_DBModel.FK_FromTb_CustomerTB" FromRole="CustomerTB" ToRole="FromTb" />
+  </EntityType>
+  <EntityContainer Name="Library_DBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BookTB" EntityType="Self.BookTB" />
+    <EntitySet Name="CustomerTB" EntityType="Self.CustomerTB" />
+    <EntitySet Name="FromTb" EntityType="Library_DBModel.FromTb" />
+    <AssociationSet Name="FK_FromTb_BookTB" Association="Library_DBModel.FK_FromTb_BookTB">
+      <End Role="BookTB" EntitySet="BookTB" />
+      <End Role="FromTb" EntitySet="FromTb" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FromTb_CustomerTB" Association="Library_DBModel.FK_FromTb_CustomerTB">
+      <End Role="CustomerTB" EntitySet="CustomerTB" />
+      <End Role="FromTb" EntitySet="FromTb" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="FromTb">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="BookID" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Type" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="BookTB" Relationship="Library_DBModel.FK_FromTb_BookTB" FromRole="FromTb" ToRole="BookTB" />
+    <NavigationProperty Name="CustomerTB" Relationship="Library_DBModel.FK_FromTb_CustomerTB" FromRole="FromTb" ToRole="CustomerTB" />
+  </EntityType>
+  <Association Name="FK_FromTb_BookTB">
+    <End Type="Library_DBModel.BookTB" Role="BookTB" Multiplicity="1" />
+    <End Type="Library_DBModel.FromTb" Role="FromTb" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BookTB">
+        <PropertyRef Name="BookID" />
+      </Principal>
+      <Dependent Role="FromTb">
+        <PropertyRef Name="BookID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FromTb_CustomerTB">
+    <End Type="Library_DBModel.CustomerTB" Role="CustomerTB" Multiplicity="1" />
+    <End Type="Library_DBModel.FromTb" Role="FromTb" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CustomerTB">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="FromTb">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

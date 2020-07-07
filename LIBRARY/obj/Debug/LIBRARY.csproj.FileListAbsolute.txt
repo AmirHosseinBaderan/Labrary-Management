@@ -1,0 +1,10 @@
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.exe.config
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.exe
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\bin\Debug\LIBRARY.pdb
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.csprojAssemblyReference.cache
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.Form1.resources
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.Properties.Resources.resources
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.csproj.GenerateResource.cache
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.csproj.CoreCompileInputs.cache
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.exe
+E:\project\java , cs ,\cs\Windows Forms\LIBRARY\LIBRARY\obj\Debug\LIBRARY.pdb

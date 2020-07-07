@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Library_DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BookTB">
+    <Key>
+      <PropertyRef Name="BookID" />
+    </Key>
+    <Property Name="BookID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BookName" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Writer" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Publishare" Type="nvarchar" MaxLength="200" />
+    <Property Name="Code" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="CustomerTB">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="250" />
+    <Property Name="Address" Type="nvarchar" MaxLength="800" />
+    <Property Name="CustomerIMG" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="FromTb">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+    <Property Name="BookID" Type="int" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="Type" Type="bit" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_FromTb_BookTB">
+    <End Role="BookTB" Type="Self.BookTB" Multiplicity="1" />
+    <End Role="FromTb" Type="Self.FromTb" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BookTB">
+        <PropertyRef Name="BookID" />
+      </Principal>
+      <Dependent Role="FromTb">
+        <PropertyRef Name="BookID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FromTb_CustomerTB">
+    <End Role="CustomerTB" Type="Self.CustomerTB" Multiplicity="1" />
+    <End Role="FromTb" Type="Self.FromTb" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CustomerTB">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="FromTb">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Library_DBModelStoreContainer">
+    <EntitySet Name="BookTB" EntityType="Self.BookTB" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CustomerTB" EntityType="Self.CustomerTB" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FromTb" EntityType="Self.FromTb" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_FromTb_BookTB" Association="Self.FK_FromTb_BookTB">
+      <End Role="BookTB" EntitySet="BookTB" />
+      <End Role="FromTb" EntitySet="FromTb" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FromTb_CustomerTB" Association="Self.FK_FromTb_CustomerTB">
+      <End Role="CustomerTB" EntitySet="CustomerTB" />
+      <End Role="FromTb" EntitySet="FromTb" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
